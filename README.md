@@ -1,1 +1,1 @@
-# c38-tiered-project
+# Virtual-Pet-2.0
